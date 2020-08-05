@@ -1,0 +1,9 @@
+Data Science  : Pengenalan Lengkap Dasar-Dasar Natural Language Processing.
+
+
+Natural Language Processing (NLP) adalah salah satu bagian dari Artificial Intellegence. Bidang ini membahas tentang interaksi antara mesin dan bahasa manusia.
+Di Kelas ini.
+
+Pada kelas ini kita akan belajar dari dasar tentang pemprosesan hingga pengaplikasian menggunakan python. Lebih spesifik lagi, kalian akan belajar tentang Regular Expression, Tokenization, Stemming, Lemmatization, Chunks, Bag Of Words, One Hot Encoding, dan lain sebagainya. 
+
+Setelah kalian menyelesaikan kursus ini, kalian akan memiliki fondasi yang baik dalam Natural Language Processing, kalian mampu mengapplikasikannya ke dalam beberapa kasus. Happy Learning :)

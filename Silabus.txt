@@ -1,0 +1,21 @@
+Python For NLP
+1. Open File
+2. String Operation
+
+1. Text Proprocessing
+	- Regular Expression
+	- Tokenization
+	- Stemming
+	- Lemmatization
+	- Chunks
+	- Bag of Words
+2. Feature Engeenering
+	- One Hot Encoding
+	- Count Vectorizer
+	- N-Grams
+	- TfIdfVectorizer
+	- Word Embedding
+2. Some Application of NLP
+	- Gender Identifier
+	- Sentiment Analysis
+	- Topic Identification
